@@ -1,0 +1,6 @@
+async functioname(var){
+    try
+    const = await hành đôngl
+    catch 
+    trả error
+}
